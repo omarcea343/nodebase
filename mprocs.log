@@ -1,0 +1,11 @@
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\Omar\\AppData\\Roaming\\npm\\pnpm run inngest:dev\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\Omar\\AppData\\Roaming\\npm\\pnpm run dev\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [mprocs::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"pnpm run inngest:dev\"\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: The system cannot find the file specified. (os error 2)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"pnpm run dev\"\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: The system cannot find the file specified. (os error 2)
+ERROR [mprocs::error] Error: channel closed
+ERROR [mprocs::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\Omar\\AppData\\Roaming\\npm\\pnpm run inngest:dev\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\Omar\\AppData\\Roaming\\npm\\pnpm run dev\0"` in cwd `Some("C:\\Users\\Omar\\Desktop\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [mprocs::error] Error: channel closed
+ERROR [mprocs::error] Error: channel closed

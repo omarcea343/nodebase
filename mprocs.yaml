@@ -1,0 +1,6 @@
+procs:
+    inngest:
+        shell: "pnpm run inngest:dev"
+
+    next:
+        shell: "pnpm run dev"
